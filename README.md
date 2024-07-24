@@ -57,5 +57,9 @@ To use a different API, replace the `url` variable in the JavaScript file with t
 
 ```javascript
 let url = "YOUR_NEW_API_ENDPOINT";
+```
+### **File Structure**
 
-
+- `index.html`: The main HTML file containing the structure of the application.
+- `style.css`: The CSS file containing the styles for the application.
+- `code.js` and `app.js`: The JavaScript files containing the logic for fetching exchange rates and updating the UI.
