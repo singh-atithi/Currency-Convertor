@@ -63,3 +63,13 @@ let url = "YOUR_NEW_API_ENDPOINT";
 - `index.html`: The main HTML file containing the structure of the application.
 - `style.css`: The CSS file containing the styles for the application.
 - `code.js` and `app.js`: The JavaScript files containing the logic for fetching exchange rates and updating the UI.
+
+## **🤝 Contributing**
+
+We welcome contributions! If you have any suggestions, improvements, or bug fixes, feel free to fork the repository and submit a pull request. Your help is greatly appreciated!
+
+## **💖 Acknowledgements**
+
+- [**Font Awesome**](https://fontawesome.com/) for the icons
+- [**FlagsAPI**](https://flagsapi.com/) for the flag images
+
