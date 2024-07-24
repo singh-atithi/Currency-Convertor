@@ -64,15 +64,26 @@ input {
   max-width: 2.3rem;
 }
 
-/* .selector-from,
-.selector-to {
+.selector{
   display: flex;
   justify-content: center;
   align-items: center;
-} */
-
+  /* background-color: white; */
+  border: 2px solid white;
+  gap: 3px;
+  padding: 3px;
+  border-radius: 0.5rem;
+}
+.msg-container{
+  color: white;
+  border: 2px solid white;
+  background-color: black;
+  padding: 10px;
+  border-radius:2rem;
+}
 .msg-container p {
   font-size: 1.5rem;
+ 
 }
 
 .get-data-container button {
