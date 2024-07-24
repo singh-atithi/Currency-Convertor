@@ -58,18 +58,4 @@ To use a different API, replace the `url` variable in the JavaScript file with t
 ```javascript
 let url = "YOUR_NEW_API_ENDPOINT";
 
-File Structure
-index.html: The main HTML file containing the structure of the application.
-style.css: The CSS file containing the styles for the application.
-code.js and app.js: The JavaScript files containing the logic for fetching exchange rates and updating the UI.
-Screenshot
 
-🤝 Contributing
-Feel free to fork the repository and submit pull requests. Any improvements or bug fixes are welcome.
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-💖 Acknowledgements
-Font Awesome for the icons
-FlagsAPI for the flag images
